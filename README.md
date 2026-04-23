@@ -9,3 +9,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasfalves07&theme=dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lucasfalves07/lucasfalves07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lucasfalves07/lucasfalves07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/lucasfalves07/lucasfalves07/output/github-contribution-grid-snake.svg" />
+</picture>
