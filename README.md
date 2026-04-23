@@ -1,4 +1,6 @@
 ## Estudante de Sistemas de Informação no Instituto Mauá de Tecnologia, sou um grande amante de tecnologia e estou procurando uma oportunidade para começar minha carreira profissional de trabalho. Sempre me esforço para resolver desafios e garantir o melhor resultado possível.
+[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgbraz/](https://www.linkedin.com/in/lucas-alves-25946a2b9/))
+
 
 ##👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
