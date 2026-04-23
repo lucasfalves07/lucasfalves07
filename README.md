@@ -1,7 +1,5 @@
 ## Estudante de Sistemas de Informação no Instituto Mauá de Tecnologia, sou um grande amante de tecnologia e estou procurando uma oportunidade para começar minha carreira profissional de trabalho. Sempre me esforço para resolver desafios e garantir o melhor resultado possível.
 
-<!--
-**lucasfalves07/lucasfalves07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark)
 
