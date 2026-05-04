@@ -11,8 +11,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasfalves07&show_icons=true&theme=dark)
 
 
 ##
