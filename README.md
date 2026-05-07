@@ -13,9 +13,6 @@
 
 
 
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfalves07&layout=compact)
 
 ##
 ![Streak](https://streak-stats.demolab.com?user=lucasfalves07&theme=dark)
